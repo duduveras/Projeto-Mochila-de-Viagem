@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Play**
 | :label: Tecnologias | HTML, CSS , JavaScript
-| :rocket: URL         | 
+| :rocket: URL         | https://projeto-mochila-de-viagem-ten.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Projeto Mochila ](https://github.com/duduveras/Projeto-Mochila-de-Viagem/assets/126736702/e34eb569-5dfc-4ae2-83e4-580a83aca3be)
